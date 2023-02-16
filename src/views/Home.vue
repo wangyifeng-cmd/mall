@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     hhh
+    wow
   </div>
 </template>
 
