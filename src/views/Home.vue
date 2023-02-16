@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    lala
+    hao
   </div>
 </template>
 
