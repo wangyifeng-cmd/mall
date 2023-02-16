@@ -2,6 +2,7 @@
   <div class="home">
     hao
     guo
+    wow
   </div>
 </template>
 
