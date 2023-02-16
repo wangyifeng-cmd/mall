@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     hao
+    guo
   </div>
 </template>
 
