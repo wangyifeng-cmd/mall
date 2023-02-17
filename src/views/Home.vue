@@ -1,16 +1,29 @@
 <template>
-  <div class="home">
-    hao
-    guo
-    wow
-  </div>
+    <div>
+        hhh
+    </div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
-  components: {
+    name: 'MallHome',
 
-  }
+    data() {
+        return {
+            
+        }
+    },
+
+    mounted() {
+        
+    },
+
+    methods: {
+        
+    },
 }
 </script>
+
+<style scoped>
+
+</style>
