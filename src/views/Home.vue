@@ -2,6 +2,7 @@
     <div>
         hhh
         yuuuu
+        ooo
         guohh
     </div>
 </template>
