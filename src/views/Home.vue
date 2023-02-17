@@ -1,32 +1,23 @@
 <template>
-    <div>
-        hhh
-        yuuuu
-        ooo
-        guohh
-    </div>
+  <div class=""></div>
 </template>
 
 <script>
 export default {
-    name: 'MallHome',
-
-    data() {
-        return {
-            
-        }
-    },
-
-    mounted() {
-        
-    },
-
-    methods: {
-        
-    },
+  name: '',
+  mixins: [],
+  components: {},
+  props: {},
+  data () {
+    return {
+    }
+  },
+  computed: {},
+  watch: {},
+  created () {},
+  mounted () {},
+  methods: {},
 }
 </script>
 
-<style scoped>
-
-</style>
+<style scoped lang="scss"></style>
