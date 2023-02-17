@@ -1,14 +1,32 @@
 <template>
-  <div class="home">
-    hhh
-  </div>
+    <div>
+        hhh
+        yuuuu
+        ooo
+        guohh
+    </div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
-  components: {
+    name: 'MallHome',
 
-  }
+    data() {
+        return {
+            
+        }
+    },
+
+    mounted() {
+        
+    },
+
+    methods: {
+        
+    },
 }
 </script>
+
+<style scoped>
+
+</style>
